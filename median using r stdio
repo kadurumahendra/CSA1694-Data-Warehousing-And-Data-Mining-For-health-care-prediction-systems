@@ -3,6 +3,6 @@ The intervals and corresponding frequencies are as follows. age frequency
 Compute an approximate median value for the data
 
 
- values-c(200,450,300,1500,700,44)
-S-median(values) 8
- s
+ values=c(200,450,300,1500,700,44)
+S=median(values) 8
+ S
